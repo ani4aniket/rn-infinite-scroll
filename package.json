@@ -1,5 +1,5 @@
 {
-  "name": "rn-infinite-scroll",
+  "name": "@ani4aniket/rn-infinite-scroll",
   "version": "0.0.1",
   "description": "A react native component that lets you scroll infinitely in both directions by repeating the same items.",
   "main": "src/index.js",

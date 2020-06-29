@@ -1,4 +1,4 @@
-# rn-infinite-scroll
+# @ani4aniket/rn-infinite-scroll
 
 A react native component that lets you scroll infinitely in both directions by repeating the same items.
 
@@ -8,7 +8,7 @@ A react native component that lets you scroll infinitely in both directions by r
 
 ## Installation
 
-Run `npm install rn-infinite-scroll` in your project directory.
+Run `npm install @ani4aniket/rn-infinite-scroll` or `yarn add @ani4aniket/rn-infinite-scroll` in your project directory.
 
 ## Usage
 
